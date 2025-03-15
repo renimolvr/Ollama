@@ -1,0 +1,16 @@
+Transaction_ID,Customer_ID,Amount,Transaction_Type
+1,C001,1200,Online
+2,C002,600,In-Store
+3,C003,7500,Online
+4,C004,300,In-Store
+5,C005,8500,Online
+6,C006,2000,Online
+7,C007,100,In-Store
+8,C008,9500,Online
+9,C009,1800,In-Store
+10,C010,720,Online
+11,C011,5300,Online
+12,C012,430,In-Store
+13,C013,9900,Online
+14,C014,2700,Online
+15,C015,6500,In-Store
